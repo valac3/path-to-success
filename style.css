@@ -54,3 +54,10 @@ h3 {
 h4 {
     font-size: 1.15em;
 }
+
+section img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
