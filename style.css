@@ -17,3 +17,7 @@
     --dark-gray: #1E1E1E; 
     --white: #ffffff;
 }
+
+h1, h2 {
+    font-family: 'kavoon', serif;
+}
