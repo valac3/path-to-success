@@ -21,3 +21,7 @@
 h1, h2 {
     font-family: 'kavoon', serif;
 }
+
+body, h3, h4, h5, h6, p, a, li, td, th {
+    font-family: 'Inter', san-serif;
+}
