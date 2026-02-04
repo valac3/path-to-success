@@ -67,3 +67,8 @@ section h4 {
     vertical-align: middle;
 }
 
+article section:has(img[src*="personal-development"]) {
+    background-color: var(--teal);
+    padding: 20px;
+    margin-bottom: 15px;
+}
