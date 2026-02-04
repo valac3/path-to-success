@@ -7,3 +7,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    --teal: #4CA7C0;
+    --purple: #484FB7;
+    --lavender: #6B8FE7;
+    --yellow: #E9BB57;
+    --pink: #D9526F;
+    --dark-gray: #1E1E1E; 
+    --white: #ffffff;
+}
