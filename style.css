@@ -58,6 +58,12 @@ h4 {
     font-size: 1.15em;
 }
 
+header {
+    background-color: var(--purple);
+    text-align: center;
+    padding: 30px 20px;
+}
+
 section img {
     width: 40px;
     height: 40px;
