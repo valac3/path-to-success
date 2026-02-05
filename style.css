@@ -107,3 +107,6 @@ nav li {
     border-radius: 5px;
 }
 
+nav li:last-child {
+    margin-bottom: 0;
+}
