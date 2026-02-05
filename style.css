@@ -25,6 +25,9 @@
 body {
     max-width: 450px;
     margin: 0 auto;
+    background: linear-gradient(to bottom, #6B8FE7 0%, #484FB7 100%);
+    color: var(--white);
+    font-family: 'Inter', sans-serif;
 }
 
 h1, h2 {
@@ -72,3 +75,44 @@ article section:has(img[src*="personal-development"]) {
     padding: 20px;
     margin-bottom: 15px;
 }
+
+/* Career Coaching - Lavender */
+article section:has(img[src*="career-coaching"]) {
+    background-color: var(--lavender);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+/* Relationship Coaching - Pink */
+article section:has(img[src*="relationship-coaching"]) {
+    background-color: var(--pink);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+/* Supportive Community - Yellow */
+article section:has(img[src*="supportive-community"]) {
+    background-color: var(--yellow);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+/* Focused Sessions - Teal */
+article section:has(img[src*="focused-session"]) {
+    background-color: var(--teal);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+/* Interactive Learning - Lavender */
+article section:has(img[src*="interactive-learning"]) {
+    background-color: var(--lavender);
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+/* Flexible Learning - Pink */
+article section:has(img[src*="flexible-learning"]) {
+    background-color: var(--pink);
+    padding: 20px;
+    margin-bottom: 15px;
