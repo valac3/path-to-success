@@ -157,3 +157,37 @@ article section img {
 article section:last-child {
     margin-bottom: 0;
 }
+
+article section h4 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: var(--dark-gray);
+    font-weight: 700;
+}
+
+article section p {
+    text-align: left;
+    line-height: 1.6;
+    font-size: 0.9em;
+}
+
+#why-choose-us {
+    background-color: #D9526F;
+    padding: 30px 20px;
+}
+
+#why-choose-us h2 {
+    text-align: left;
+    margin-bottom: 20px;
+    color: var(--white);
+}
+
+#why-choose-us ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
