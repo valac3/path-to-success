@@ -153,3 +153,7 @@ article section img {
     display: block;
     margin: 0 auto 15px auto;
 }
+
+article section:last-child {
+    margin-bottom: 0;
+}
