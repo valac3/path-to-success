@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap');
 
 /* CSS REST */
-{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -135,4 +135,21 @@ main {
     text-align: left;
     margin-bottom: 10px;
     color: var(--white);
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+article > h3 {
+    color: var(--yellow);
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+article section img {
+    width: 60px;
+    height: 60px;
+    display: block;
+    margin: 0 auto 15px auto;
 }
