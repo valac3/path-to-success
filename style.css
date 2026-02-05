@@ -81,6 +81,18 @@ header p {
     color: var(--white);
 }
 
+header p {
+    font-size: 0.9em;
+    margin-top: 0;
+}
+
+/* Navigation Styling */
+nav {
+    background-color: var(--yellow);
+    padding: 20px;
+    margin-top: 20px;
+}
+
 section h4 {
     display: inline-block;
     vertical-align: middle;
