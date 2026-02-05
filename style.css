@@ -76,6 +76,11 @@ header h1 {
     color: var(--white);
 }
 
+header p {
+    font-size: 10px;
+    color: var(--white);
+}
+
 section h4 {
     display: inline-block;
     vertical-align: middle;
